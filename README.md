@@ -17,3 +17,6 @@ The subquestions are only simple suggestions
  - Entry mode: strategic alliance, IVJ or wholly owned subsidiary?
  - Analysis the entry mode by TCE or OLI (low or high ownership?)
  - Why choose that entry mode but no others? Comparison
+
+22nd - Combine Powerpoint
+25th - Practice
